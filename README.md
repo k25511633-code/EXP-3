@@ -56,6 +56,8 @@ Cross connection:
 CIRCUIT DIAGRAM:
 
 Tabulation:2
+
+
 ![WhatsApp Image 2025-12-13 at 09 39 42_038c21ec](https://github.com/user-attachments/assets/22e638a9-383b-41a4-9868-46a349796eb2)
 
 
