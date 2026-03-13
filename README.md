@@ -41,25 +41,31 @@ switch2.
 
 Direct connection:
 CIRCUIT DIAGRAM: 
-![WhatsApp Image 2025-12-13 at 09 27 37_cd639129](https://github.com/user-attachments/assets/f3274055-c058-4ec3-9b41-81963a8115c2)
 
-
-<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/7091e296-92f6-48e8-aaf6-50284fa5b0d7" />
-
+Tabulation:1
+<img width="1021" height="580" alt="Screenshot 2025-11-24 090929" src="https://github.com/user-attachments/assets/67a4dec2-bdba-460b-9dc8-d202cf9f56cd" />
 
 Tabulation:1
 
-	![WhatsApp Image 2025-12-13 at 09 39 42_04bb3b84](https://github.com/user-attachments/assets/9686f9b8-5914-4233-93c3-7e01827fabe7)
-
+|NODE |S1  |S2  |LAMP |
+|-----|----|----|-----|
+|1    |ON  |ON  |OFF  |
+|2    |ON  |OFF |ON   |
+|3    |OFF |ON  |ON   |
+|4    |OFF |OFF |OFF  |	
 	
 Cross connection:
 CIRCUIT DIAGRAM:
 
 Tabulation:2
+<img width="1142" height="688" alt="Screenshot 2025-12-10 134339" src="https://github.com/user-attachments/assets/94be3d2c-9f3d-4750-aff4-afcf5a6823b8" />
 
-     ![WhatsApp Image 2025-12-13 at 09 39 42_038c21ec](https://github.com/user-attachments/assets/22e638a9-383b-41a4-9868-46a349796eb2)
-
-
-
+|NODE | S1 | S2 |LAMP|
+|-----|----|----|----|
+|1    |ON  |ON  |ON  |
+|2    |ON  |OFF |OFF |
+|3    |OFF |ON  |OFF |
+|4    |OFF |OFF |ON  |
+     
 RESULT:
 Thus the staircase wiring is connected and tested.
