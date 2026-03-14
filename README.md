@@ -40,32 +40,27 @@ switch2.
 
 
 Direct connection:
-CIRCUIT DIAGRAM: 
+### CIRCUIT DIAGRAM: 
+a)SPDT(XNOR):
 
-Tabulation:1
-<img width="1021" height="580" alt="Screenshot 2025-11-24 090929" src="https://github.com/user-attachments/assets/67a4dec2-bdba-460b-9dc8-d202cf9f56cd" />
+<img width="775" height="395" alt="image" src="https://github.com/user-attachments/assets/a7493e2b-2752-453d-846a-9d38f0a31278" />
 
-Tabulation:1
 
-|NODE |S1  |S2  |LAMP |
-|-----|----|----|-----|
-|1    |ON  |ON  |OFF  |
-|2    |ON  |OFF |ON   |
-|3    |OFF |ON  |ON   |
-|4    |OFF |OFF |OFF  |	
-	
+b)SPDT(XOR):
+
+<img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
+
+
+
 Cross connection:
-CIRCUIT DIAGRAM:
+### CIRCUIT DIAGRAM:
+a) SPDT(XNOR):
+![WhatsApp Image 2025-10-04 at 1 22 14 PM](https://github.com/user-attachments/assets/0e4add3c-b1f3-4093-8937-5a8a30a4e9f3)
 
-Tabulation:2
-<img width="1142" height="688" alt="Screenshot 2025-12-10 134339" src="https://github.com/user-attachments/assets/94be3d2c-9f3d-4750-aff4-afcf5a6823b8" />
+b) SPDT(XOR):
+![WhatsApp Image 2025-10-04 at 1 22 15 PM](https://github.com/user-attachments/assets/b7c006eb-d4c8-444c-8343-b761649c6f00)
 
-|NODE | S1 | S2 |LAMP|
-|-----|----|----|----|
-|1    |ON  |ON  |ON  |
-|2    |ON  |OFF |OFF |
-|3    |OFF |ON  |OFF |
-|4    |OFF |OFF |ON  |
+
      
-RESULT:
+### RESULT:
 Thus the staircase wiring is connected and tested.
